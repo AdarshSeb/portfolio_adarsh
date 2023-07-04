@@ -34,13 +34,9 @@
     font-weight: 500;
     position: relative;
     top: 0;
-    /* animation: slide 8s steps(4) infinite; */
+    
 }
-/* @keyframes slide{
-    100%{
-        top: -360px;
-    }
-} */
+
 
 .dynamic-txts li span{
     position: relative;
@@ -66,24 +62,7 @@
         margin: 0 -35px 0 35px;
     }
 }
-/* .about{
-    justify-content: center;
-    padding-top: 50px;
-    border: 5px solid green;
-    margin-top: 10px;
-}
 
-.pic{
-    display:flex ;
-    align-items: flex-start;
-    justify-content: flex-start;
-    padding-left: 10%;
-}
-
-.pic img{
-    height:500px;
-    width:400px;
-} */
 
 .about-mf .box-shadow-full {
     padding-top: 5rem;
@@ -147,29 +126,14 @@
     text-align: center;
 }
   
-/* .service-box:hover .ico-circle {
-    transition: all 500ms ease;
-    color: #fff;
-    background-color: #0078ff;
-    box-shadow: 0 0 0 10px #cde1f8;
-} */
+
   
 .service-box .service-ico {
     margin-bottom: 1rem;
     color: #1e1e1e;
 }
   
-/* .service-box .ico-circle {
-    transition: all 500ms ease;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-} */
-  
-/* .service-box .ico-circle i {
-    line-height: 0;
-    font-size: 40px;
-} */
+
   
 .service-box .s-title {
     font-size: 1.4rem;
